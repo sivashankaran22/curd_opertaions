@@ -1,0 +1,30 @@
+export const Data =[
+    {
+        "id":"1",
+        "name":"Siva",
+        "batch":"Aug2019",
+        "gender":"Male",
+        "branch":"Mechanical"
+    },
+    {
+        "id":"2",
+        "name":"Karthik",
+        "batch":"Aug2018",
+        "gender":"Male",
+        "branch":"MBA"
+    },
+    {
+        "id":"3",
+        "name":"Priya",
+        "batch":"Aug2020",
+        "gender":"Female",
+        "branch":"CSE"
+    },
+    {
+        "id":"4",
+        "name":"Santhosh",
+        "batch":"Jun2019",
+        "gender":"Male",
+        "branch":"Mechanical"
+    }
+]
